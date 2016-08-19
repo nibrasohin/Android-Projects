@@ -1,4 +1,4 @@
-package com.uptodate.nibras.chapter4;
+package com.uptodate.nibras.randomtodo;
 
 import org.junit.Test;
 
