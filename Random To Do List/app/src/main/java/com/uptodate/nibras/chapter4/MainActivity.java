@@ -43,7 +43,6 @@ public class MainActivity extends AppCompatActivity {
         EditText editText=(EditText)findViewById(R.id.editText);
         if(view.getId()==R.id.task )
         {
-//            System.out.println("Testing");
             arrayList.add(editText.getText().toString());
 
             set.addAll(arrayList);
